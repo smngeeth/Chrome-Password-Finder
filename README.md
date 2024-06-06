@@ -1,4 +1,4 @@
-Chrom saved passwords founder and make text document
+Chrome saved all passwords find and make text document
 
 Step 1 :- pip install pypiwin32 pycryptodomex
 
